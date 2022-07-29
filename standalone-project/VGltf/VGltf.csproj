@@ -8,8 +8,8 @@
     <Version>0.0.0</Version>
     <Authors>yutopp</Authors>
 
-    <PackageLicense>https://github.com/yutopp/VGltf/blob/master/LICENSE_1_0.txt</PackageLicense>
-    <PackageProjectUrl>https://github.com/yutopp/VGltf/</PackageProjectUrl>
+    <PackageLicense>https://github.com/ClusterVR/VGltf/blob/master/LICENSE_1_0.txt</PackageLicense>
+    <PackageProjectUrl>https://github.com/ClusterVR/VGltf/</PackageProjectUrl>
     <PackageTags>csharp;gltf;glb;serialization;unity</PackageTags>
 
     <Description>A glTF and GLB serializer/deserializer library written in pure C#.</Description>
@@ -17,11 +17,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="../../Packages/net.yutopp.vgltf/Runtime/**/*.cs" />
+    <Compile Include="../../Packages/mu.cluster.vgltf/Runtime/**/*.cs" />
   </ItemGroup>
 
   <!--ItemGroup>
-    <Compile Include="../../../VJson/Packages/net.yutopp.vjson/Runtime/**/*.cs" />
+    <Compile Include="../../../VJson/Packages/mu.cluster.vjson/Runtime/**/*.cs" />
   </ItemGroup-->
 
   <ItemGroup>

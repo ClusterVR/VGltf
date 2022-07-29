@@ -1,8 +1,8 @@
 {
     "name": "Unity.VGltfEamples.glTFExample",
     "references": [
-        "Unity.net.yutopp.vgltf",
-        "Unity.net.yutopp.vgltf.unity",
+        "Unity.mu.cluster.vgltf",
+        "Unity.mu.cluster.vgltf.unity",
         "UniTask",
         "Unity.VGltfEamples.Common"
     ],

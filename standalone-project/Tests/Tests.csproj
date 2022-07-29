@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="../../Packages/net.yutopp.vgltf/Tests/Runtime/**/*.cs" />
+    <Compile Include="../../Packages/mu.cluster.vgltf/Tests/Runtime/**/*.cs" />
   </ItemGroup>
 
   <Target Name="CopyCustomContent" AfterTargets="AfterBuild">
