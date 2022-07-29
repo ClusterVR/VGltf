@@ -1,6 +1,6 @@
 # VGltf 🗿
 
-[![license](https://img.shields.io/github/license/yutopp/VGltf.svg)](https://github.com/ClusterVR/VGltf/blob/master/LICENSE_1_0.txt)
+[![license](https://img.shields.io/github/license/ClusterVR/VGltf.svg)](https://github.com/ClusterVR/VGltf/blob/master/LICENSE_1_0.txt)
 [![gltf-2.0](https://camo.githubusercontent.com/4a2bc1263a5da1ed3190e23186521ffd9a2d51b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676c54462d32253245302d677265656e2e7376673f7374796c653d666c6174)](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0)
 ![unity](https://img.shields.io/badge/unity-2019.4%2B-blue.svg)
 
