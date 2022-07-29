@@ -1,9 +1,6 @@
 # VGltf 🗿
 
-[![ci](https://github.com/yutopp/VGltf/actions/workflows/ci.yml/badge.svg)](https://github.com/yutopp/VGltf/actions/workflows/ci.yml)
-[![NuGet Badge](https://buildstats.info/nuget/vgltf)](https://www.nuget.org/packages/VGltf/)
-[![codecov](https://codecov.io/gh/yutopp/VGltf/branch/master/graph/badge.svg)](https://codecov.io/gh/yutopp/VGltf)
-[![license](https://img.shields.io/github/license/yutopp/VGltf.svg)](https://github.com/yutopp/VGltf/blob/master/LICENSE_1_0.txt)
+[![license](https://img.shields.io/github/license/yutopp/VGltf.svg)](https://github.com/ClusterVR/VGltf/blob/master/LICENSE_1_0.txt)
 [![gltf-2.0](https://camo.githubusercontent.com/4a2bc1263a5da1ed3190e23186521ffd9a2d51b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676c54462d32253245302d677265656e2e7376673f7374796c653d666c6174)](https://github.com/KhronosGroup/glTF/tree/master/specification/2.0)
 ![unity](https://img.shields.io/badge/unity-2019.4%2B-blue.svg)
 
@@ -57,13 +54,13 @@ Add a url for VGltf git repository to your `Packages/manifest.json` like below.
 ```json
 {
   "dependencies": {
-    "net.yutopp.vgltf": "https://github.com/yutopp/VGltf.git?path=Packages/net.yutopp.vgltf",
-    "net.yutopp.vgltf.unity": "https://github.com/yutopp/VGltf.git?path=Packages/net.yutopp.vgltf.unity"
+    "mu.cluster.vgltf": "https://github.com/ClusterVR/VGltf.git?path=Packages/mu.cluster.vgltf",
+    "mu.cluster.vgltf.unity": "https://github.com/ClusterVR/VGltf.git?path=Packages/mu.cluster.vgltf.unity"
   }
 }
 ```
 
-**We recommend to use the [stable version](https://github.com/yutopp/VGltf/tags) by [specifying the tag](https://docs.unity3d.com/2019.4/Documentation/Manual/upm-git.html#revision).**
+**We recommend to use the [stable version](https://github.com/ClusterVR/VGltf/tags) by [specifying the tag](https://docs.unity3d.com/2019.4/Documentation/Manual/upm-git.html#revision).**
 
 #### By using npm repository
 
@@ -73,30 +70,30 @@ Add scoped registry information shown below to your `Packages/manifest.json` if 
 {
   "scopedRegistries": [
     {
-      "name": "yutopp.net",
+      "name": "Cluster",
       "url": "https://registry.npmjs.com",
       "scopes": [
-        "net.yutopp"
+        "mu.cluster"
       ]
     }
   ]
 }
 ```
 
-And add `net.yutopp.vgltf.*` to your `Packages/manifest.json` like below.
+And add `mu.cluster.vgltf.*` to your `Packages/manifest.json` like below.
 
 ```json
 {
   "dependencies": {
-    "net.yutopp.vgltf": "*",
-    "net.yutopp.vgltf.unity": "*"
+    "mu.cluster.vgltf": "*",
+    "mu.cluster.vgltf.unity": "*"
   }
 }
 ```
 
 #### Dependencies
 
-- [yutopp/VJson](https://github.com/yutopp/VJson)
+- [ClusterVR/VJson](https://github.com/ClusterVR/VJson)
 
 ## Usage examples
 

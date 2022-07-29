@@ -1,6 +1,6 @@
 PROJECT_NAME:=VGltf
 
-PACKAGE_NAME:=net.yutopp.vgltf
+PACKAGE_NAME:=mu.cluster.vgltf
 PACKAGE_DIR:=Packages/${PACKAGE_NAME}
 PACKAGE_JSON_PATH:=${PACKAGE_DIR}/package.json
 
