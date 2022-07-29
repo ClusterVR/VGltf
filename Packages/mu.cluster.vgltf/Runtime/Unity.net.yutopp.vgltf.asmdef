@@ -1,7 +1,7 @@
 {
-    "name": "Unity.mu.cluster.vgltf",
+    "name": "Unity.net.yutopp.vgltf",
     "references": [
-        "Unity.mu.cluster.vjson"
+        "Unity.net.yutopp.vjson"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
