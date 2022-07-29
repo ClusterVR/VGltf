@@ -1,11 +1,12 @@
 {
-    "name": "Unity.net.yutopp.vgltf.Tests",
+    "name": "Unity.mu.cluster.vgltf.unity.Tests",
     "references": [
-        "Unity.net.yutopp.vgltf",
-        "Unity.net.yutopp.vjson",
+        "Unity.mu.cluster.vgltf",
+        "Unity.mu.cluster.vgltf.Tests",
+        "Unity.mu.cluster.vgltf.unity",
+        "Unity.mu.cluster.vjson",
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "Unity.net.yutopp.vgltf.Tests.Shims.UnityStreamingAssets"
+        "UnityEditor.TestRunner"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -19,5 +20,5 @@
         "UNITY_INCLUDE_TESTS"
     ],
     "versionDefines": [],
-    "noEngineReferences": true
+    "noEngineReferences": false
 }

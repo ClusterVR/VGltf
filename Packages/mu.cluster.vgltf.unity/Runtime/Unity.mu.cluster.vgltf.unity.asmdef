@@ -1,6 +1,9 @@
 {
-    "name": "Unity.net.yutopp.vgltf.Tests.Shims.UnityStreamingAssets",
-    "references": [],
+    "name": "Unity.mu.cluster.vgltf.unity",
+    "references": [
+        "Unity.mu.cluster.vgltf",
+        "Unity.mu.cluster.vjson"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
