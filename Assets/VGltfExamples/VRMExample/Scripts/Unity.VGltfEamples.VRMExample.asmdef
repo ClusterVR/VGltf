@@ -1,10 +1,10 @@
 {
     "name": "Unity.VGltfEamples.VRMExample",
     "references": [
-        "Unity.mu.cluster.vgltf",
-        "Unity.mu.cluster.vgltf.unity",
-        "Unity.mu.cluster.vgltf.ext.vrm0",
-        "Unity.mu.cluster.vgltf.ext.vrm0.unity",
+        "Unity.net.yutopp.vgltf",
+        "Unity.net.yutopp.vgltf.unity",
+        "Unity.net.yutopp.vgltf.ext.vrm0",
+        "Unity.net.yutopp.vgltf.ext.vrm0.unity",
         "UniTask",
         "Unity.VGltfEamples.Common",
         "MToon"
