@@ -1,8 +1,8 @@
 {
-  "name": "net.yutopp.vgltf.ext.vrm0",
+  "name": "mu.cluster.vgltf.ext.vrm0.unity",
   "version": "0.0.0",
-  "displayName": "VGltfExtVRM0",
-  "description": "`VGltfExtVRM0` is a VRM extension for `VGltf`.",
+  "displayName": "VGltfExtVRM0Unity",
+  "description": "`VGltfExtVRM0Unity` is a VRM extension for `VGltfUnity`.",
   "unity": "2019.4",
   "dependencies": {},
   "keywords": [

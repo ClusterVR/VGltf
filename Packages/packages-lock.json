@@ -41,31 +41,31 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "net.yutopp.vgltf": {
-      "version": "file:net.yutopp.vgltf",
+    "mu.cluster.vgltf": {
+      "version": "file:mu.cluster.vgltf",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
-    "net.yutopp.vgltf.ext.vrm0": {
-      "version": "file:net.yutopp.vgltf.ext.vrm0",
+    "mu.cluster.vgltf.ext.vrm0": {
+      "version": "file:mu.cluster.vgltf.ext.vrm0",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
-    "net.yutopp.vgltf.ext.vrm0.unity": {
-      "version": "file:net.yutopp.vgltf.ext.vrm0.unity",
+    "mu.cluster.vgltf.ext.vrm0.unity": {
+      "version": "file:mu.cluster.vgltf.ext.vrm0.unity",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
-    "net.yutopp.vgltf.unity": {
-      "version": "file:net.yutopp.vgltf.unity",
+    "mu.cluster.vgltf.unity": {
+      "version": "file:mu.cluster.vgltf.unity",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
-    "net.yutopp.vjson": {
+    "mu.cluster.vjson": {
       "version": "0.9.10",
       "depth": 0,
       "source": "registry",

@@ -1,5 +1,5 @@
 {
-  "name": "net.yutopp.vgltf.unity",
+  "name": "mu.cluster.vgltf.unity",
   "version": "0.0.0",
   "displayName": "VGltfUnity",
   "description": "`VGltf` is a `glTF 2.0` and `GLB` serializer/deserializer library for Unity written in pure C#.",

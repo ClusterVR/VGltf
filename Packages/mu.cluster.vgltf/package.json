@@ -1,5 +1,5 @@
 {
-  "name": "net.yutopp.vgltf",
+  "name": "mu.cluster.vgltf",
   "version": "0.0.0",
   "displayName": "VGltf",
   "description": "`VGltf` is a `glTF 2.0` and `GLB` serializer/deserializer library written in pure C#.",

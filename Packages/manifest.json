@@ -39,10 +39,10 @@
   },
   "scopedRegistries": [
     {
-      "name": "yutopp.net",
+      "name": "Cluster",
       "url": "https://registry.npmjs.com",
       "scopes": [
-        "net.yutopp"
+        "mu.cluster"
       ]
     }
   ]
